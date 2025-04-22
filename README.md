@@ -39,7 +39,7 @@ Matplotlib – for plotting training curves and sample predictions
 
 2. Preprocess video frames to extract eye and mouth regions using facial landmarks.
 
-#. Build and train the ViT-based drowsiness detection model (cells include hyperparameter settings).
+3. Build and train the ViT-based drowsiness detection model (cells include hyperparameter settings).
 
 4. Run inference on live webcam feed or test video:
 
